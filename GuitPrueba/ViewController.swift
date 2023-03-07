@@ -15,5 +15,11 @@ class ViewController: UIViewController {
     }
 
 
+    @IBOutlet weak var label: UILabel!
+    
+    @IBAction func boton1(_ sender: Any) {
+        
+        
+    }
 }
 
